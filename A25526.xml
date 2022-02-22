@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a letter from a gentleman in the country, relating to the present ministry and men in employments</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25526</idno>
+            <idno type="STC">Wing A3316</idno>
+            <idno type="STC">ESTC R9932</idno>
+            <idno type="EEBO-CITATION">12275594</idno>
+            <idno type="OCLC">ocm 12275594</idno>
+            <idno type="VID">58437</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25526)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58437)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 883:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a letter from a gentleman in the country, relating to the present ministry and men in employments</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Darby ... and sold by A. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Eton College Library.</note>
+                  <note>Advertisement: p. [15]-[16]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political corruption --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58437:1"/>
+            <pb facs="tcp:58437:1"/>
+            <p>AN ANSWER TO A LETTER FROM A Gentleman in the Country, Relating to the <hi>Preſent Miniſtry,</hi> AND Men in Employments.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Darby</hi> in <hi>Bartholomew-Cloſe;</hi> and ſold by <hi>A. Baldwin</hi> in <hi>Warwick-lane.</hi> 1699.</p>
+            <p>Price <hi>3d.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:58437:2"/>
+            <pb n="3" facs="tcp:58437:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOUR Letter of the twelfth Inſtant finds me under the ſame Fears with your ſelf, but not ſo deep in Deſpair; becauſe I think it poſſible for a good King to mend Mal-Adminiſtration, tho not probable for a Nation ſo ſoon to return to that Power which has coſt three Kingdoms ſo much Blood and Trea<g ref="char:EOLhyphen"/>ſure to throw off.</p>
+            <p>Good men are too apt to fear Judgments, becauſe they know we deſerve them: This, give me leave to think, is your Caſe; but we ought not poſitively to de<g ref="char:EOLhyphen"/>termine any thing: That would be to meaſure Divine Providence by humane Conduct. I think the Rule of <hi>Democrates</hi> more agreeable to our preſent Circumſtances, That whoever would live content, muſt propound to him<g ref="char:EOLhyphen"/>ſelf things poſſible, and ſubmit to things preſent. Why may not we hope the King will change hands? and then we ſhould not be ſo much diſturbed with the preſent ſtate of Affairs. But I come to the ſeven particulars, to which you deſire my Anſwer.</p>
+            <p>
+               <pb n="4" facs="tcp:58437:3"/>
+Firſt, <hi>Whether I ever read in Story, Sacred or Profane, of ſuch Frauds in the Management of the Treaſure of any Nation?</hi>
+            </p>
+            <p>Secondly, <hi>Whether there can be parallel'd in any Heathen, not to ſay Chriſtian Government, ſuch immoral, and pro<g ref="char:EOLhyphen"/>fane Men in places of Power, and Truſt?</hi>
+            </p>
+            <p>Thirdly, <hi>Whether I have ever heard, in any Chriſtian Government, of a Clergy that ſo tenderly handled the Sins of a Nation, and the Vices of great Men, as our Clergy in this Nation?</hi>
+            </p>
+            <p>Fourthly, <hi>Whether this fault in our Clergy, and a great<g ref="char:EOLhyphen"/>er Corruption in thoſe we call the Whig, or Diſſenting party, have not given our Enemies, the Church of</hi> Rome, <hi>great<g ref="char:EOLhyphen"/>er matter of ſcandal againſt the Proteſtant Religion, than any thing that has happen'd ſince the Reformation?</hi>
+            </p>
+            <p>Fifthly, <hi>Whether under our preſent Management and Conduct, it may not be eaſy for the late King to return, and eſt abliſh himſelf without a foren Force?</hi>
+            </p>
+            <p>Sixthly, <hi>Whether all theſe things being conſider'd, it does not look as if God had left the Nation to a ſpirit of De<g ref="char:EOLhyphen"/>luſion, to truſt in Lies; that we may fall into the hands of Enemies, who deſign the extirpation of our Nation and Re<g ref="char:EOLhyphen"/>ligion?</hi>
+            </p>
+            <p>Seventhly, <hi>Whether a Government that neither rewards nor puniſhes, does not ſuppreſs Virtue, and encourage Vice?</hi>
+            </p>
+            <p>Here end your ſeven Queries, of which I ſhall give my Opinion, tho I am ſure it cannot inform your better Judgment.</p>
+            <p>Your firſt Query is, <hi>Whether I ever read in Story, Chriſtian, or Heathen, of ſuch Frauds in the Management of the Treaſure of any Nation?</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:58437:3"/>
+I muſt own I never did; And the reaſon may be, becauſe we have nothing like our Conſtitution, and late Revolution in all its parts, in Hiſtory. Such turns in State uſe to come with Force, and Arbitrary Power; and then Armies lived at Diſcretion: But our Change was with the vogue of the People, who thought no price too great for ſo happy a Deliverance.</p>
+            <p>The King who was in the Head of it, a Stranger to men as well as management in the Nation, could not bring Strangers into Offices and Employments, I mean ſuch of our ſelves as had never been in Buſineſs before, but was of neceſſity forced to employ thoſe he found in buſineſs of the State; and from ſuch Plants as had been raiſed in the corrupt Soil of the late Reign, no very good Fruit could be expected; and their opportunity for Frauds was ſuch, as perhaps no Age ever preſented in former times. The Nation then went gradually ſtep by ſtep into Levies and Taxes, and there was time to take care of the Management: but now we were forced to leap into them with a running Jump, too much without Method or Controul; and that led our Managers, I veri<g ref="char:EOLhyphen"/>ly believe, into greater Frauds, than even the wicked Spirit that guided them at firſt, foreſaw. For how could it be imagined that the Spoil ſhould be ſo great, that a Sweeper of an Office, of twenty pounds <hi>per An<g ref="char:EOLhyphen"/>num</hi> Stipend, ſhould arrive in four Years to an Eſtate of ſix thouſand Pounds? and Clerks in Offices of eighty Pounds <hi>per Annum</hi> Salary, to a Purchaſe of twenty thou<g ref="char:EOLhyphen"/>ſand Pounds Sterling? And in this proportion it is ſaid to go generally through all the Offices of the King<g ref="char:EOLhyphen"/>dom. And this Management has been laid with ſo great Judgment, that the qualifications of a Perſon for an Em<g ref="char:EOLhyphen"/>ployment were to have good Teſtimonials that he un<g ref="char:EOLhyphen"/>derſtood
+<pb n="6" facs="tcp:58437:4"/>the World; a ſoft Character for a Knave. And this is too notorious by the unanimous conſpiration of all in Employments, when the leaſt of them was attack'd: I need not name particulars, which are in e<g ref="char:EOLhyphen"/>very days Pamphlets, too much to the ſcandal of our Nation and Government: Pray God it may not be to the Ruin of both!</p>
+            <p>Thus you ſee I agree with your firſt Inquiry, as to Fact, tho not to the Inference you make which I think to be too ſharp.</p>
+            <p>I end this Head with the words of a Heathen, which I think better Divinity than we practiſe in this Age, <hi>viz.</hi> That to keep our ſelves quiet in this World, we muſt aim at nothing that Men count worth wrangling for. It would be one good ſtep to a Reform, if Of<g ref="char:EOLhyphen"/>fices in the State were diſpoſed as they are in Corpora<g ref="char:EOLhyphen"/>tions, as an Impoſition, to Men that have got Eſtates, to ſerve their Country, not to men of expectations to gain Eſtates by Offices: That is advancing the Waſp above the Bee.</p>
+            <p>We ſhould conſider the practice of our Neighbours, the <hi>Dutch,</hi> and there we ſhall find no Man in any place of Truſt that has his Fortune to make: and ſome tell us, that all the Civil Imployments in that Common-Wealth put together, amount not to the Sum that one No<g ref="char:EOLhyphen"/>ble Lord, a Friend or otherwiſe to the Army, has raiſed out of his Imployment.</p>
+            <p>Your ſecond Enquiry is, <hi>Whether there can be parallel'd in Heathen, much leſs Chriſtian Government, ſuch immoral and profane Men in Places of Power and Truſt?</hi>
+            </p>
+            <p>This Query gives ſuch a Latitude for anſwering, that I might eaſily prove the Affirmative; but then I muſt
+<pb n="7" facs="tcp:58437:4"/>confeſs that to make the Parallel I muſt go abroad; for I cannot find it in any Reign at home. But if we look into the Reaſon of this Misfortune, we ſhall find it the ſame we have juſt now given for the Frauds in our Ma<g ref="char:EOLhyphen"/>nagers of the Revenue: Did not the King find ſome of them in Imployments, even them you moſt complain of? Were not others of them early in aſſiſting the King in this Revolution? If we calmly reflected on this, we ſhould not believe theſe Men to be the King's choice, or entertain a thought that he ſupports them. A Body full of Hereditary Diſtempers, muſt undergo a courſe of Phyſick for Recovery: a violent Purge and Bleeding might endanger the whole. We have had ſuch great Proofs of the King's Wiſdom and Conduct, that me<g ref="char:EOLhyphen"/>thinks we ſhould truſt him, and ſatisfy our ſelves with a Maxim of the Lord <hi>Verulam, If you would make haſte, ſtay a while.</hi> I differ with you, that the King loſes good Men by letting bad Men continue ſo long in Power<g ref="char:punc">▪</g> I cannot dive into the ſecrets of Princes, but to me <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeems great Policy for our King in our preſent Circum<g ref="char:EOLhyphen"/>ſtances, to let faulty Men be fully laid open to the Peo<g ref="char:EOLhyphen"/>ple, before he removes them; and then they will not be able, as too often we have ſeen it, to make Parties a<g ref="char:EOLhyphen"/>mong the People, when their faults have drove them out of the Court. I know you will ſay that the Men com<g ref="char:EOLhyphen"/>plained of have ſufficiently laid themſelves open, to the general Abhorrence of the Nation; and therefore the Reaſon before given is out of doors. It's true, and therefore I give it for the time paſt, hoping that the King by this time ſees the Tranſgreſſors are fully under<g ref="char:EOLhyphen"/>ſtood and known in the Nation, whoſe Eyes are on his Majeſty for Reformation in this matter, as a foundation for a righteous Government. <hi>Seneca</hi> was in the right
+<pb n="8" facs="tcp:58437:5"/>when he tells us, <hi>It is an ill Age where Vice hath got a Re<g ref="char:EOLhyphen"/>putation, and the Diſſolute have loſt the only good thing they had, the ſhame of offending.</hi> This hath been too much our caſe, but you and I will hope very ſoon to ſee better times, and that the Enemies of our Government ſhall find themſelves expoſed for thoſe wicked and falſe Inſinuations whereby they would conceal their own Crimes.</p>
+            <p>Your third Query is, <hi>Whether I have ever heard in any Chriſtian Government of a Clergy that ſo tenderly handled the Sins of a Nation, and the Vices of great Men, as our Clergy in this Reign?</hi>
+            </p>
+            <p>This Queſtion, I muſt needs ſay, is more ſurprizing than all the reſt: You ſeem at one ſtroke to wound the whole Body of the Clergy, in which I think you are to blame. And ſo far do I differ from you in this Remark on the Clergy, that on the contrary I think we never had a more learned and pious Clergy. None can deny <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as to the Biſhops made in this Reign. What Age can you turn to, and ſhew where there has been more con<g ref="char:EOLhyphen"/>ſtant Preaching and inſtructing of Youth? When was there ſuch frequent preaching againſt leud and profane Converſation? Really, Sir, I fear you live in ſome ill Neighbourhood, or perhaps hear none but Cour-Sermons; and there indeed Men too often flatter. A Biſhoprick or a Deanery, like Charity, hides a multitude of faults: But we don't ſee many of theſe Spaniel Tongue-pads preferred. And now, Sir, give me leave to tell you among what ſort of Men it is my Lot to fall, and to hear preach; one is a Doctor famed for Learning and Piety, whom I heard deliver himſelf in a great Congre<g ref="char:EOLhyphen"/>gation in theſe words, <hi>It is too often the fault of learned
+<pb n="9" facs="tcp:58437:5"/>Men to flatter Princes, and we find the Tranſlators of our Bible guilty in this matter, or they would not ſo groſly have erred in that where they tranſlate;</hi> Who ſaith to a King thou art wicked: <hi>Whereas in the Hebrew it is,</hi> Thou ſhalt fay to a King thou art wicked; <hi>that is,</hi> ſaid the Doctor, <hi>if he be ſo he ſhould be told of it.</hi> And agreeable to this Doctrine, I think it to be the opinion of moſt good Men, that it is the Duty of our Clergy to reach thoſe Sins of great Men in Government in their Pulpits, which they cannot come at in their Perſons. And this may be done without perſonal Reflections, by declaiming againſt Things, not Men; and if our Clergy do not this as much as they ought, I fear it is our own fault. We generally cry down, and with good reaſon, Pulpit-Stateſmen; and of<g ref="char:EOLhyphen"/>ten run that truth beyond its bounds. I would not have dictated from a Pulpit, what Men ſhould be advan<g ref="char:EOLhyphen"/>ced, or who diſgraced; what Laws ſhould be made, what abrogated: but I think it comes well from a Pulpit to tell us that a Prince cannot be well ſerved, or a Na<g ref="char:EOLhyphen"/>tion preſerved by ſuch Miniſters in the Government as make a mock of Sin, and hate and keep from Imploy<g ref="char:EOLhyphen"/>ments all that pretend to Sobriety. Theſe Wolves in Royal Clothing are the Vermin of a good Govern<g ref="char:EOLhyphen"/>ment; and yet theſe are the Reformers of our Age, that diſtinguiſh themſelves by the name of Whigs, whom once we knew by their pretences to Religion and Property, but now they are Apoſtates to both. You may find ſome of them in every Commiſſion in the Kingdom, and too many of them where ſuch poiſonous Plants ſhould be pluck'd up by the Roots. It was the Obſervation of a good Man, That ill Miniſters make ill Times, and ill Times continue and increaſe ill Miniſters; and this ſeems to be our Misfortune.</p>
+            <p>
+               <pb n="10" facs="tcp:58437:6"/>
+Your fourth Query is, <hi>Whether this fault in our Clergy, and a greater Corruption in thoſe we call the Whig or Diſſent<g ref="char:EOLhyphen"/>ing Party, have not given our Enemies, the Church of</hi> Rome, <hi>greater matter of ſcandal againſt the Proteſtant Religion, than any thing that has happen'd ſince the Reformation?</hi>
+            </p>
+            <p>This is too plain to be denied, and our Miſcarriage too great a fault to excuſe.</p>
+            <p>That which I have made the Rule of my Faith, hath always been the Holy Scriptures; and that Community which is govern'd by them, I chooſe to be a Member. Now that our Church (let miſtaken Friends or profeſt Enemies ſay what they can) began the Reformation with the greateſt Purity of Life, as well as Orthodoxy of Doctrine, none but they who ſupport their Church (if it be one) by denying their Members the liberty of their Senſes, can deny.</p>
+            <p>But in Controverſy, that Argument which every Un<g ref="char:EOLhyphen"/>derſtanding can comprehend will prevail moſt; and we have that on our ſide, which is a Reformation in Manners as well as Doctrine from the Romaniſts: and this will convert Heathens, when School-Controverſies might di<g ref="char:EOLhyphen"/>ſtract them. Should a Heathen ſee that our Doctrine and Church-Diſcipline oblige us to an holy, ſober, and reli<g ref="char:EOLhyphen"/>gious Life, and that no Man is accounted ſuch among us that wants Morals; that our Religion and Church-Goverment admits of no indulgence for Sins, nor thinks any venial; but that plainneſs of Spirit, and integrity in all our Actions is the Badg of a Chriſtian: And if on the other hand the Romaniſts ſhould appear in their ſhapes, as teaching that there is no faith to be kept with a Heretick; that Lies, Oaths, and all manner of Vice may be diſpens'd with for promoting their Cauſe; and that they can forgive, nay ſaint a Criminal guilty of Sins
+<pb n="11" facs="tcp:58437:6"/>that Heathens abhor and never pardon: Were theſe things, I ſay, conſidered by Men that never heard of Chriſtianity, I think the Controverſy would eaſily be decided. For when we have ſaid all, <hi>Morals</hi> are the common Touch<g ref="char:EOLhyphen"/>ſtone that will prevail with Mankind.</p>
+            <p>And now I come to your moſt ſenſible part in this Queſtion; Whether our preſent Management in Publick Affairs by immoral Men doth not give the Enemies of our Religion and Nation advantages over us, they never had before? I muſt own in my opinion it dos, and for this rea<g ref="char:EOLhyphen"/>ſon; becauſe that which procured us of the Reformation credit and eſteem in the World when we ſeparated from them, was, as I ſaid before, the Purity of our Doctrine; but that would not have been ſo well underſtood in the World, if it had not been accompanied with plain honeſt Morals between Man and Man. It was, if we believe Story, even in the Reign of <hi>Edward</hi> the Sixth, a Pro<g ref="char:EOLhyphen"/>verb among the Papiſts; <hi>I am as ſure of my Contract, as if I had the word of a Heretick.</hi> Now if we loſe the Cha<g ref="char:EOLhyphen"/>racter of Moraliſts, I fear we ſhall want the moſt pow<g ref="char:EOLhyphen"/>erful Perſwaſive that brings in Converts, and the beſt An<g ref="char:EOLhyphen"/>tidote againſt Popiſh and Atheiſtical Deluſions.</p>
+            <p>I confeſs I am ſilenced when Papiſts and Jacobites com<g ref="char:EOLhyphen"/>pare the Miniſters of the late Reign with ours; but I tell them they are moſtly the ſame Men. Their return leaves me little to ſay, when they name our great Whigs Liberty and Property: Men that pretended to be Martyrs for the Religion and Laws in the late Reigns, but are now Deſerters of both. By this I confeſs we put Weapons into the hands of our Enemies to deſtroy us. What can we ſay in defence of our Church and Religion, when we are managed by them that hate the firſt, and ridicule the latter? Ask them what is their Religion, they tell you
+<pb n="12" facs="tcp:58437:7"/>they are Whigs: What are Whigs? Are they Prebyteri<g ref="char:EOLhyphen"/>ans, Independents, <hi>&amp;c.?</hi> No, they are no Meeters. What then? At laſt it comes only to this, they hate high Church-men, and would as an Expedient have none at all. And agreeable to their Profeſſion is their Practice, as leud as <hi>Sodom,</hi> and ſraudulent as <hi>Judas.</hi> And our Miſ<g ref="char:EOLhyphen"/>fortune is the common Miſery; for where their num<g ref="char:EOLhyphen"/>bers are great, the whole Government lies under the black<g ref="char:EOLhyphen"/>eſt Character that ever this Nation bore.</p>
+            <p>This fourth Query of yours puts me upon a Review of the Chronicles and Annals of this Kingdom; and tho we find various Misfortunes, almoſt as many as Kings, yet among all we meet with none that bear any propor<g ref="char:EOLhyphen"/>tion to thoſe we are now under. Many Men and Fami<g ref="char:EOLhyphen"/>lies have been cut off according to the Power and Pleaſure of a prevailing Faction; but ſtill the Miniſtry and Men in publick Truſt were juſt to their own ſide. Revenues were not ſwallowed up by Managers, nor were any ſo hardy as to advocate for them that were but ſuſpected; inſomuch that I don't find above three Men in four hundred years before the late Reigns who were queſtioned for miſmanagement in publick Receipts, that went off without a Cenſure of another nature than Addreſſing. I fear ſuch tender handling doth not only encourage faulty Men at home, but renders us a decaying and loſt Peo<g ref="char:EOLhyphen"/>ple abroad. I cannot ſee how we ſhall deſend our ſelves againſt Foren Force, when we are conquer'd by home Frauds: and that which makes it look like a ſpreading Leproſy is, that thoſe whoſe Actions are ſo notorious in one Poſt that they cannot hold it, have only the Puniſh<g ref="char:EOLhyphen"/>ment of being removed to another, as ſoon as one can be found of the ſame Qualifications to ſucceed him; the natural Conſequence of which muſt be, that in a little
+<pb n="13" facs="tcp:58437:7"/>time their numbers will be too great to be call'd into que<g ref="char:EOLhyphen"/>ſtion. It is indeed aſtoniſhing to ſee that ſo many Men of great Eſtates, and Engliſh Blood, ſhould be ſo blind as not to perceive that if theſe things hold, the Nation is loſt. I have bin ſo long on this fourth Query, that I have little room or time for the other three; ſo I ſhall end this with a Reſolution of <hi>Seneca,</hi> and were I not an Engliſh-man, ſay to my Country as he did to Fortune, That <hi>he would have nothing to do with it that repulſed</hi> Cato, <hi>and preferr'd</hi> Vitellius.</p>
+            <p>Your fifth Query is, <hi>Whether under our preſent Manage<g ref="char:EOLhyphen"/>ment and Conduct, it may not be eaſy for the late King to re<g ref="char:EOLhyphen"/>turn, and eſtabliſh himſelf without a foren Force?</hi>
+            </p>
+            <p>This Conceit ſmells of the Cask, and argues too much Fear, and too little Faith. I confeſs ſuch Corruption, and ill Management as we are under, is always the fore-runner of a ruined State; and our Caſe ſeems almoſt deſperate, when the greateſt part of a Seſſion is ſpent in hearing Com<g ref="char:EOLhyphen"/>plaints, Addreſſe, <hi>&amp;c.</hi> againſt Mal-Adminiſtration. This opens the Eyes of the Nation, and it may be feared will break forth one way or other: But I cannot think any true Engliſh-man, however diſobliged by this, or engaged by Favours of the late King, can ever have a Thought or Wiſh for his, or rather French-Tyranny. He muſt be degenerate to a Prodigy, that would turn Slave to the French; and he muſt have loſt his Reaſon that frames an Idea of any thing elſe under the late King, who had he e<g ref="char:EOLhyphen"/>ver ſo good Inclinations, muſt act by the dictates of his French Maſter.</p>
+            <p>For theſe Reaſons, I think it next to an impoſſibility for the late King to return without a Foren Force. All my fear is from our Diſtractions at home; for we cannot call them Diviſions, Factions, and Parties, ſuch as formerly
+<pb n="14" facs="tcp:58437:8"/>were the cauſe of Wars and Calamities among us.</p>
+            <p>We are now under a Diſtemper that this Nation never heard of before; all for the King, (for ſo 'tis, if the Ma<g ref="char:EOLhyphen"/>jor comprehend the Minor) and none for the Miniſters. It will be the wonder of Ages to come, as it is the Tor<g ref="char:EOLhyphen"/>ment of this, to ſee our ſelves ruined by a few Men that have no Intereſt or Party in the Nation. A pleaſant Gen<g ref="char:EOLhyphen"/>tleman the other Day ſaid, he believed that one Wherry would carry away all their Friends, if they were ſeparated from Employments. And there may be Reaſon to believe it, if we conſider their Politicks, which ſhew them to be at their laſt ſhifts, and like Teague, who running too faſt in a Race, had nothing to excuſe his fault, but that he run away with himſelf. So our Managers way of juſtifying themſelves, is to criminate the whole Nation. When they of the Church complain, then they are <hi>Jacobites;</hi> when Diſſenters find fault, they are for a <hi>Common-wealth:</hi> but this Charm that for ſome time deluded well meaning Men is ſeen through, and the Mask thrown off. Arts and Stra<g ref="char:EOLhyphen"/>tagems in Government, in our Kingdoms, have not that effect they have among other Nations: We are a free Peo<g ref="char:EOLhyphen"/>ple, and ſuch have not a ſlaviſh Underſtanding. The hu<g ref="char:EOLhyphen"/>mour of the Engliſh Nation is like that of <hi>Cato, who would not have it in the power of any Man to ſay he killed or ſaved</hi> Cato. Engliſhmen will not endure to have it ſaid, that any Trick, or any ſet of Men have power to ſave or loſe <hi>England:</hi> They think therhſelves ſafe by no other ways and means than thoſe of their Conſtitution in Church and Stat; and if they were duly obſerved, Muſhroom Pro<g ref="char:EOLhyphen"/>jectors would not ſet up againſt Engliſh Oaks. The an<g ref="char:EOLhyphen"/>tient Nobility and Gentry of the Nation, were always the main ſupport of the Crown.</p>
+            <p>
+               <pb n="15" facs="tcp:58437:8"/>
+Your <hi>ſixth Query,</hi> is a deſire of my Approbation to your Prediction; to which I can give no Anſwer, but if what you fear be true, it is an ill time to convert People, when they find both Advantage and Reputation in their Wick<g ref="char:EOLhyphen"/>edneſs.</p>
+            <p>Your laſt Query is, <hi>Whether a Government that neither rewards nor puniſhes, doth not ſuppreſs Virtue, and encou<g ref="char:EOLhyphen"/>rage Vice?</hi>
+            </p>
+            <p>No doubt it does; but I will anſwer your Queſtion with another, Did you ever know corrupt Miniſters puniſh themſelves, or reward what they hate? Single Vices are curable by ſingle Counſels, but a general Diſſoluteneſs in Government is hardly overcome. I therefore think the King hath a more difficult work than delivering us from the known Enemies of our Laws and Religion. In that we joined; but ſo unhappy we are, that againſt the depravity of them that would be our Maſters, we can do nothing, but muſt ſtand ſtill and ſee it done by the King alone; if we ſpeak out, we are Mutineers, and enemies to the Government.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>A Letter to His moſt Excellent Majeſty King <hi>William</hi> III. Shewing, I. The Original Foundation of the <hi>Engliſh</hi> Monarchy. II. The Means by which it was remov'd from that Foundation. III. The Expedients by which it has been ſup<g ref="char:EOLhyphen"/>ported ſince that Removal. IV. Its preſent Conſtitution, as to all its integral Parts. V. The beſt Means by which its Grandeur may be for ever maintain'd. Sold by <hi>A. Baldwin.</hi> Of whom may be had all the Pamphlets againſt a Stand<g ref="char:EOLhyphen"/>ing Army.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
